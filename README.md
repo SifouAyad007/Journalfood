@@ -30,7 +30,7 @@ Installation
 
 bash
 git clone https://github.com/SifouAyad007/Journalfood.git
-cd food-journal-app
+cd Journalfood
 
 Install dependencies:
 
