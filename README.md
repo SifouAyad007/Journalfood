@@ -29,7 +29,7 @@ Installation
     Clone the repository: 
 
 bash
-git clone https://github.com/yourusername/food-journal-app.git
+git clone https://github.com/SifouAyad007/Journalfood.git
 cd food-journal-app
 
 Install dependencies:
